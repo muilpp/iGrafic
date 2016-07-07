@@ -1,4 +1,4 @@
-package controller;
+package model;
 
 import static model.login.MeteorDeskEndPoints.CHANNELS_ENDPOINT;
 import static model.login.MeteorDeskEndPoints.CHATS_ENDPOINT;

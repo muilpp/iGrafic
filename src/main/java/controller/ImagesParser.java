@@ -11,6 +11,9 @@ import java.util.List;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 
+import model.Helpers;
+import model.IMeteorDesk;
+import model.MeteorDeskService;
 import model.channels.ChannelData;
 import model.chats.ChatData;
 import model.messages.MessageData;
